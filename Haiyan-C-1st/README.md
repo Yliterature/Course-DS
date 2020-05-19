@@ -1,7 +1,9 @@
 |作者|literature|
 |---|---
 |时间|2020.05.20
-|`:satisfied:`|:satisfied:
+
+:satisfied: 本仓库由[litreature](https://literature.k6366.com.cn/)<br>维护
+邮箱:2440229611@qq.com  or  22012245@sfcollege.edu
 
 # 食用须知
 本仓库代码开源，仅供学习交流！利用本仓库代码进行学术造假和商业获利造成的后果，均与本仓库维护人员无关！
