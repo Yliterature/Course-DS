@@ -2,7 +2,7 @@
 |---|---
 |时间|2020.05.20
 
-:satisfied: 本仓库由[litreature](https://literature.k6366.com.cn/)<br>维护
+:satisfied: 本仓库由[litreature](https://literature.k6366.com.cn/)维护<br>
 邮箱:2440229611@qq.com  or  22012245@sfcollege.edu
 
 # 食用须知
