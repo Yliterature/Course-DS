@@ -1,7 +1,10 @@
+|作者|literature|
+|---|---
+|时间|2020.05.20
+|`:satisfied:`|:satisfied:
+
 # 食用须知
-<font color=#FF0000 >红色</font>
-<font color=#008000 >绿色</font>
-<font color=#0000FF >蓝色</font>
+本仓库代码开源，仅供学习交流！利用本仓库代码进行学术造假和商业获利造成的后果，均与本仓库维护人员无关！
 
 
 ## 实验平台<br>
