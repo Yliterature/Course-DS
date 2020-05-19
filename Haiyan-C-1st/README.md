@@ -5,6 +5,13 @@
 
 ## 实验一<br>
 [NOJ1004 线性表操作](https://acm.njupt.edu.cn/problem/NOJ1004)<br>
+```Java
+public static void main(String[] args){}
+```
+
+```javascript
+document.getElementById("ts").innerHTML="Hello"
+```
 
 [NOJ1005 多项式加法](https://acm.njupt.edu.cn/problem/NOJ1005)<br>
 
