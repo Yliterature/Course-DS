@@ -1,21 +1,4 @@
 
-
-# 教材
-[**数据结构（C语言）**](https://item.jd.com/12172447.html)<br>
-Data Structures in C<br>
-王海艳 主编<br>
-骆健 朱洁 邹志强 戴华 徐鹤 王甦 副主编<br>
-人民邮电出版社<br>
-ISBN: 9787115458254<br>
-[**课件下载**](http://www.ryjiaoyu.com/book/details/7754)<br>
-
-**C语言程序设计（附微课视频 第3版）**<br>
-C Programming<br>
-朱立华 陈可佳 主编<br>
-刘林峰 吴家皋 郭剑 副主编<br>
-人民邮电出版社<br>
-ISBN: 9787115488336<br>
-
 # 实验
 ## 实验平台<br>
 [NJUPT Online Judge](https://acm.njupt.edu.cn)<br>
